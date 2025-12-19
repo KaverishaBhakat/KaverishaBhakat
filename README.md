@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Kaveri! 👋
 
+I'm a developer based in India 🇮🇳 with a passion for building clean, user-friendly web experiences.
+
+### 🚀 About Me
+- 🔭 I’m currently working on **obys-Agency** (and other CSS-focused projects!)
+- 🌱 I’m currently diving deeper into **Advanced CSS & Frontend Frameworks**
+- 💬 Ask me about **UI/UX design or CSS animations**
+- 📫 Connect with me on Instagram: **@kaverisha_b163**
 <!--
 **KaverishaBhakat/KaverishaBhakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
