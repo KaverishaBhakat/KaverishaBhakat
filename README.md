@@ -17,12 +17,6 @@ I'm a developer based in India 🇮🇳 with a passion for building clean, user-
 
 ---
 
-### 📊 GitHub Stats
-![Kaveri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaveri163&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveri163&layout=compact&theme=radical)
-
----
-
 ### 🎨 Design & Inspiration
 I love blending technology with art—whether it's through code or creating stylized avatars!
 <!--
