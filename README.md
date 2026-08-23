@@ -3,14 +3,16 @@
 
 I'm a developer based in India with a passion for **building things**, **learning by doing**, and **turning ideas into real projects**. 🚀
 
+---
+
 ### 🚀 About Me
-🎓 Currently pursuing **B.Tech in Computer Science & Engineering** <br>
-💻 Exploring **Full-Stack Web Development** <br>
-🔭 Currently working on **CampusEvent** and other web projects <br>
-🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA** <br>
-🧠 Interested in **Web Development, APIs, System Design & Hackathons** <br>
-💬 Ask me about **Frontend Development, CSS, React or my latest projects** <br>
-📫 Connect with me on Instagram: @kaverisha_b163 <br>
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** <br>
+- 💻 Exploring **Full-Stack Web Development** <br>
+- 🔭 Currently working on **CampusEvent** and other web projects <br>
+- 🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA** <br>
+- 🧠 Interested in **Web Development, APIs, System Design & Hackathons** <br>
+- 💬 Ask me about **Frontend Development, CSS, React or my latest projects** <br>
+- 📫 Connect with me on Instagram: @kaverisha_b163 <br>
 
 ---
 
@@ -30,19 +32,23 @@ I'm a developer based in India with a passion for **building things**, **learnin
 
 ---
 
-### 🎨 Design & Inspiration
-I love blending technology with art—whether it's through code or creating stylized avatars!
-<!--
-**KaverishaBhakat/KaverishaBhakat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💭 A Little More About Me
+const kaveri = {
+    education: "Computer Science & Engineering",
+    currentlyBuilding: "Full-Stack Projects",
+    currentlyLearning: [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Java",
+        "DSA"
+    ],
+    interests: [
+        "Web Development",
+        "Hackathons",
+        "UI/UX",
+        "Creative Design"
+    ],
+    mindset: "Learn → Build → Break → Debug → Repeat 🚀"
+};
