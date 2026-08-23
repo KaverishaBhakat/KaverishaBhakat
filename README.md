@@ -12,7 +12,6 @@ I'm a developer based in India with a passion for **building things**, **learnin
 - 🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA** <br>
 - 🧠 Interested in **Web Development, APIs, System Design & Hackathons** <br>
 - 💬 Ask me about **Frontend Development, CSS, React or my latest projects** <br>
-- 📫 Connect with me on Instagram: @kaverisha_b163 <br>
 
 ---
 
@@ -32,23 +31,9 @@ I'm a developer based in India with a passion for **building things**, **learnin
 
 ---
 
-### 💭 A Little More About Me
-const kaveri = {
-    education: "Computer Science & Engineering",
-    currentlyBuilding: "Full-Stack Projects",
-    currentlyLearning: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Java",
-        "DSA"
-    ],
-    interests: [
-        "Web Development",
-        "Hackathons",
-        "UI/UX",
-        "Creative Design"
-    ],
-    mindset: "Learn → Build → Break → Debug → Repeat 🚀"
-};
+### 🤝 Let's Connect
+
+If you're also someone who likes building, experimenting, learning and occasionally fighting with bugs at 2 AM, we're probably going to get along. 😭
+
+📸 Instagram: @kaverisha_b163
+💼 **LinkedIn:** [Kaverisha Bhakat](https://www.linkedin.com/in/kaverisha-bhakat-5a39a4328/)  
