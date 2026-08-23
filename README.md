@@ -1,12 +1,16 @@
-# Hi there, I'm Kaveri! 👋 🇮🇳
+### Hi there, I'm Kaveri! 👋
+💻 **CSE Student | Full-Stack Developer | Creative Builder** 🇮🇳
 
-I'm a developer based in India 🇮🇳 with a passion for building clean, user-friendly web experiences.
+I'm a developer based in India with a passion for **building things**, **learning by doing**, and **turning ideas into real projects**. 🚀
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **obys-Agency** (and other CSS-focused projects!)
-- 🌱 I’m currently diving deeper into **Advanced CSS & Frontend Frameworks**
-- 💬 Ask me about **UI/UX design or CSS animations**
-- 📫 Connect with me on Instagram: **[@kaverisha_b163](https://www.instagram.com/kaverisha_b163)**
+🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
+💻 Exploring **Full-Stack Web Development**
+🔭 Currently working on **CampusEvent** and other web projects
+🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA**
+🧠 Interested in **Web Development, APIs, System Design & Hackathons**
+💬 Ask me about **Frontend Development, CSS, React or my latest projects**
+📫 Connect with me on Instagram: @kaverisha_b163
 
 ---
 
@@ -23,6 +27,8 @@ I'm a developer based in India 🇮🇳 with a passion for building clean, user-
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### 🎨 Design & Inspiration
 I love blending technology with art—whether it's through code or creating stylized avatars!
