@@ -1,11 +1,11 @@
-### Hi there, I'm Kaveri! 👋
-💻 **CSE Student | Full-Stack Developer | Creative Builder** 🇮🇳
+### Hi there, I'm Kaveri! 
+💻 **CSE Student | Full-Stack Developer | Creative Builder**
 
-I'm a developer based in India with a passion for **building things**, **learning by doing**, and **turning ideas into real projects**. 🚀
+I'm a developer based in India with a passion for **building things**, **learning by doing**, and **turning ideas into real projects**. 
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** <br>
 - 💻 Exploring **Full-Stack Web Development** <br>
 - 🔭 Currently working on **CampusEvent** and other web projects <br>
@@ -31,11 +31,11 @@ I'm a developer based in India with a passion for **building things**, **learnin
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
-If you're also someone who likes building, experimenting, learning and occasionally fighting with bugs at 2 AM, we're probably going to get along. 😭
+If you're also someone who likes building, experimenting, learning and occasionally fighting with bugs at 2 AM, we're probably going to get along. 
 
-### 🤝 Connect With Me On
+### Connect With Me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaverisha-bhakat-5a39a4328/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaverisha_bhakat/?hl=en)
