@@ -4,13 +4,13 @@
 I'm a developer based in India with a passion for **building things**, **learning by doing**, and **turning ideas into real projects**. 🚀
 
 ### 🚀 About Me
-🎓 Currently pursuing **B.Tech in Computer Science & Engineering**
-💻 Exploring **Full-Stack Web Development**
-🔭 Currently working on **CampusEvent** and other web projects
-🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA**
-🧠 Interested in **Web Development, APIs, System Design & Hackathons**
-💬 Ask me about **Frontend Development, CSS, React or my latest projects**
-📫 Connect with me on Instagram: @kaverisha_b163
+🎓 Currently pursuing **B.Tech in Computer Science & Engineering** <br>
+💻 Exploring **Full-Stack Web Development** <br>
+🔭 Currently working on **CampusEvent** and other web projects <br>
+🌱 Currently learning **Node.js, Express.js, MongoDB, Java & DSA** <br>
+🧠 Interested in **Web Development, APIs, System Design & Hackathons** <br>
+💬 Ask me about **Frontend Development, CSS, React or my latest projects** <br>
+📫 Connect with me on Instagram: @kaverisha_b163 <br>
 
 ---
 
