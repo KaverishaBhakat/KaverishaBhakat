@@ -35,9 +35,9 @@ I'm a developer based in India with a passion for **building things**, **learnin
 
 If you're also someone who likes building, experimenting, learning and occasionally fighting with bugs at 2 AM, we're probably going to get along. 😭
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaverisha-bhakat-5a39a4328/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaverisha_bhakat/?hl=en))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaverisha_bhakat/?hl=en)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.kaverishabhakat@gmail.com)
 
